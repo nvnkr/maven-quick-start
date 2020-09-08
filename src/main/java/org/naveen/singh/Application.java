@@ -1,14 +1,14 @@
-package clinic.programming.training;
+package org.naveen.singh;
 
 public class Application {
     
     public Application() {
-        System.out.println ("Inside Application");
+        System.out.println ("Inside Naveen's Application");
     }
 
     // method main(): ALWAYS the APPLICATION entry point
     public static void main (String[] args) {
-    	System.out.println ("Starting Application");
+    	System.out.println ("Starting The Application");
 	Application app = new Application();
     }
 }
